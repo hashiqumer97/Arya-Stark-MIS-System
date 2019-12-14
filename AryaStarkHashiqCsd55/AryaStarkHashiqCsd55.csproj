@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DAFA5FAB-8E51-4700-9FC0-854A21894CE7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AryaStarkHashiqCsd55</RootNamespace>
+    <AssemblyName>AryaStarkHashiqCsd55</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>aryastarklogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.TeamFoundation.TestManagement.Client, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.TeamFoundation.TestManagement.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About_Us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_Us.Designer.cs">
+      <DependentUpon>About_Us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Records_Charts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Records_Charts.Designer.cs">
+      <DependentUpon>Admin_Records_Charts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aryastarkhashiqcsd55DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>aryastarkhashiqcsd55DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Client_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client_Admin.Designer.cs">
+      <DependentUpon>Client_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact_Admin.Designer.cs">
+      <DependentUpon>Contact_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Clients.Designer.cs">
+      <DependentUpon>Modify_Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Clients_Premium.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Clients_Premium.Designer.cs">
+      <DependentUpon>Modify_Clients_Premium.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Clients_VIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Clients_VIP.Designer.cs">
+      <DependentUpon>Modify_Clients_VIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Records.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Records.Designer.cs">
+      <DependentUpon>Modify_Records.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Records_Premium.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Records_Premium.Designer.cs">
+      <DependentUpon>Modify_Records_Premium.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Records_VIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Records_VIP.Designer.cs">
+      <DependentUpon>Modify_Records_VIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Stocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Stocks.Designer.cs">
+      <DependentUpon>Modify_Stocks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Stocks_Premium.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Stocks_Premium.Designer.cs">
+      <DependentUpon>Modify_Stocks_Premium.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Stocks_VIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Stocks_VIP.Designer.cs">
+      <DependentUpon>Modify_Stocks_VIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Transactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Transactions.Designer.cs">
+      <DependentUpon>Modify_Transactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_Transactions_ User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_Transactions_ User.Designer.cs">
+      <DependentUpon>Modify_Transactions_ User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_User_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_User_Details.Designer.cs">
+      <DependentUpon>Modify_User_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Records_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Records_Admin.Designer.cs">
+      <DependentUpon>Records_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stocks_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks_Admin.Designer.cs">
+      <DependentUpon>Stocks_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Details - Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Details - Admin.Designer.cs">
+      <DependentUpon>User Details - Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Details_Validation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Details_Validation.Designer.cs">
+      <DependentUpon>User_Details_Validation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validate_Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Validate_Clients.Designer.cs">
+      <DependentUpon>Validate_Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validate_Records.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Validate_Records.Designer.cs">
+      <DependentUpon>Validate_Records.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validate_Stocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Validate_Stocks.Designer.cs">
+      <DependentUpon>Validate_Stocks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Records_Chart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Records_Chart.Designer.cs">
+      <DependentUpon>Records_Chart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log In.Designer.cs">
+      <DependentUpon>Log In.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clients.Designer.cs">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Home.Designer.cs">
+      <DependentUpon>User Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Home.Designer.cs">
+      <DependentUpon>Admin Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Stocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Stocks.Designer.cs">
+      <DependentUpon>User Stocks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Records.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Records.Designer.cs">
+      <DependentUpon>User Records.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Contact.Designer.cs">
+      <DependentUpon>User Contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="About_Us.resx">
+      <DependentUpon>About_Us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Records_Charts.resx">
+      <DependentUpon>Admin_Records_Charts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client_Admin.resx">
+      <DependentUpon>Client_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact_Admin.resx">
+      <DependentUpon>Contact_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Clients.resx">
+      <DependentUpon>Modify_Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Clients_Premium.resx">
+      <DependentUpon>Modify_Clients_Premium.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Clients_VIP.resx">
+      <DependentUpon>Modify_Clients_VIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Records.resx">
+      <DependentUpon>Modify_Records.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Records_Premium.resx">
+      <DependentUpon>Modify_Records_Premium.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Records_VIP.resx">
+      <DependentUpon>Modify_Records_VIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Stocks.resx">
+      <DependentUpon>Modify_Stocks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Stocks_Premium.resx">
+      <DependentUpon>Modify_Stocks_Premium.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Stocks_VIP.resx">
+      <DependentUpon>Modify_Stocks_VIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Transactions.resx">
+      <DependentUpon>Modify_Transactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_Transactions_ User.resx">
+      <DependentUpon>Modify_Transactions_ User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_User_Details.resx">
+      <DependentUpon>Modify_User_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Records_Admin.resx">
+      <DependentUpon>Records_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocks_Admin.resx">
+      <DependentUpon>Stocks_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Details - Admin.resx">
+      <DependentUpon>User Details - Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Details_Validation.resx">
+      <DependentUpon>User_Details_Validation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Validate_Clients.resx">
+      <DependentUpon>Validate_Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Validate_Records.resx">
+      <DependentUpon>Validate_Records.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Validate_Stocks.resx">
+      <DependentUpon>Validate_Stocks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Records_Chart.resx">
+      <DependentUpon>Records_Chart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log In.resx">
+      <DependentUpon>Log In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clients.resx">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Home.resx">
+      <DependentUpon>User Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin Home.resx">
+      <DependentUpon>Admin Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Stocks.resx">
+      <DependentUpon>User Stocks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Records.resx">
+      <DependentUpon>User Records.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Contact.resx">
+      <DependentUpon>User Contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="aryastarkhashiqcsd55DataSet1.xsc">
+      <DependentUpon>aryastarkhashiqcsd55DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="aryastarkhashiqcsd55DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>aryastarkhashiqcsd55DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="aryastarkhashiqcsd55DataSet1.xss">
+      <DependentUpon>aryastarkhashiqcsd55DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows10Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgonline-com-ua-resize-XD4aiHv9Utgc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgonline-com-ua-resize-lDEmKtCbQsL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\helpbutton.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\helpbutton1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\helpbutton - Copy.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contactbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contactbutton - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoutbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoutbutton - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recordsbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recordsbutton - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transactionsbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transactionsbutton - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stocksbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stocksbutton - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientsbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientsbutton - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userdetailsbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userdetailsbutton - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_white_background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgonline-com-ua-resize-CsFlbDubS6lC1Gno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgonline-com-ua-resize-F6LpHJS5C20Q.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgonline-com-ua-resize-qxOktO76ak7V10Z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgonline-com-ua-resize-qxOktO76ak7V10Z1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgonline-com-ua-resize-0Vwz7VlKObNJfmaN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientpic1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientpic2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stockspic1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stockspic2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientpic3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientpic1 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stockspic1 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transactionspic1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transactionspic2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transactionspic2 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recordspic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recordspic - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contactpic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contactpic - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userdetailspic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userdetailspic - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recordspic2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recordspic2 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="aryastarklogo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

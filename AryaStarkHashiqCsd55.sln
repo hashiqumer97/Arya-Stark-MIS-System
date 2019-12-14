@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AryaStarkHashiqCsd55", "AryaStarkHashiqCsd55\AryaStarkHashiqCsd55.csproj", "{DAFA5FAB-8E51-4700-9FC0-854A21894CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "UnitTestProject2\UnitTestProject2.csproj", "{BDC25E60-7BCA-42D8-AE04-7640C9653515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFA5FAB-8E51-4700-9FC0-854A21894CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFA5FAB-8E51-4700-9FC0-854A21894CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFA5FAB-8E51-4700-9FC0-854A21894CE7}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{DAFA5FAB-8E51-4700-9FC0-854A21894CE7}.Debug|Default.Build.0 = Debug|Any CPU
+		{DAFA5FAB-8E51-4700-9FC0-854A21894CE7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFA5FAB-8E51-4700-9FC0-854A21894CE7}.Release|Default.ActiveCfg = Debug|Any CPU
+		{BDC25E60-7BCA-42D8-AE04-7640C9653515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC25E60-7BCA-42D8-AE04-7640C9653515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC25E60-7BCA-42D8-AE04-7640C9653515}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{BDC25E60-7BCA-42D8-AE04-7640C9653515}.Debug|Default.Build.0 = Debug|Any CPU
+		{BDC25E60-7BCA-42D8-AE04-7640C9653515}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC25E60-7BCA-42D8-AE04-7640C9653515}.Release|Default.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201E3568-6A39-466D-BE25-1620ABE843A3}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201E3568-6A39-466D-BE25-1620ABE843A3}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal

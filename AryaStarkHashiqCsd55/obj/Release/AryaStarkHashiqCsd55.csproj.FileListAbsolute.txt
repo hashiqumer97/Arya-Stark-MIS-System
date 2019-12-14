@@ -1,0 +1,95 @@
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\AryaStarkHashiqCsd55.exe.config
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\AryaStarkHashiqCsd55.exe
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\AryaStarkHashiqCsd55.pdb
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MetroFramework.Design.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MetroFramework.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MySql.Data.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MySql.Data.xml
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_aboutus.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_admincharts.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_adminclients.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_contactadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyclients.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyclientpremium.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyclientvip.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyrecords.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyrecordspremium.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyrecordsvip.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifystocks.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifystockspremium.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifystocksvip.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifytransactionsadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifytransactionsuser.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyuserdetails.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_recordsadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_stocksadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_userdetails.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_validateusermenu.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_validateclients.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_validaterecords.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_validatestocks.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.Frm_welcome.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_chart.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_login.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_userclient.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_homeuser.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_homeadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_userstocks.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_userrecords.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_usercontact.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.Properties.Resources.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.csproj.GenerateResource.Cache
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.csproj.CoreCompileInputs.cache
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.exe
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\FINAL ASSIGNMENT - PNET\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.pdb
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\AryaStarkHashiqCsd55.exe.config
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\AryaStarkHashiqCsd55.exe
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\AryaStarkHashiqCsd55.pdb
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MetroFramework.Design.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MetroFramework.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MySql.Data.dll
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\bin\Release\MySql.Data.xml
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.csprojResolveAssemblyReference.cache
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_aboutus.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_admincharts.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_adminclients.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_contactadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyclients.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyclientpremium.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyclientvip.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyrecords.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyrecordspremium.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyrecordsvip.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifystocks.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifystockspremium.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifystocksvip.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifytransactionsadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifytransactionsuser.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_modifyuserdetails.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_recordsadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_stocksadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_userdetails.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_validateusermenu.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_validateclients.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_validaterecords.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_validatestocks.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.Frm_welcome.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_chart.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_login.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_userclient.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_homeuser.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_homeadmin.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_userstocks.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_userrecords.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.frm_usercontact.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.Properties.Resources.resources
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.csproj.GenerateResource.Cache
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.csproj.CoreCompileInputs.cache
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.exe
+C:\Users\Hashiq\Desktop\HASHIQ CSD 55\SEMESTER 3\PNET\FINAL ASSIGNMENT\AryaStarkHashiqCsd55\AryaStarkHashiqCsd55\obj\Release\AryaStarkHashiqCsd55.pdb
